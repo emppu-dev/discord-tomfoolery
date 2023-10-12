@@ -6,4 +6,4 @@ Hello world! ||​||||​||||​||||​||||​||||​||||​||||​||||​||||�
 ```
 <br>
 In the example above, you can see that the first part is the normal text, and the second part at the end is the link from which you want to display the embedded content. It will look like this:<br>
-![image](https://github.com/emppu-dev/discord-tomfoolery/assets/83163481/b3d9c660-3e99-4187-853c-656375ae7390)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/83163481/274627269-b3d9c660-3e99-4187-853c-656375ae7390.png)
